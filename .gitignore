@@ -5,3 +5,7 @@ data/
 *.pth
 *.model
 .DS_Store
+*.zip
+*.csv
+.kaggle/
+%USERPROFILE%.kaggle*
